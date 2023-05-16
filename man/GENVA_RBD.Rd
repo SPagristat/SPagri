@@ -2,13 +2,13 @@
 % Please edit documentation in R/GENVA_RBD.R
 \name{GENVA_RBD}
 \alias{GENVA_RBD}
-\title{Provides RBD analysis and path analysis}
+\title{Provides RBD analysis and Path analysis}
 \usage{
 GENVA_RBD(DATA)
 }
 \arguments{
-\item{DATA}{RBD experiment data}
+\item{DATA}{Experimental data from RBD}
 }
 \description{
-Provides RBD analysis and path analysis
+Provides RBD analysis and Path analysis
 }

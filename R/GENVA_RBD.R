@@ -96,9 +96,9 @@ GENVA_RBD<- function(DATA){
        GenCorrel=GenCorrel,
        EnvCorrel=EnvCorrel,
        PhenCorrel=PhenCorrel,
-       PatheffectGenCorr=GenCorreffect,
-       ResidualeffectGenCorr=rsqr_g,
-       PatheffectPhenCorr=PhenCorreffect,
-       ResidualeffectPhenCorr=rsqr_p
+       Path_Gen=GenCorreffect,
+       Res_Path_Gen=rsqr_g,
+       Path_Phen=PhenCorreffect,
+       Res_Path_Phen=rsqr_p
   )
 }
